@@ -19,10 +19,10 @@ def print_first_directors_movie_titles
 
 firstmov = directors_database[0][:movies]
 puts firstmov[0][:title]
-puts firstmov[0][:title]
-puts firstmov[0][:title]
-puts firstmov[0][:title]
-puts firstmov[0][:title]
-puts firstmov[0][:title]
+puts firstmov[1][:title]
+puts firstmov[2][:title]
+puts firstmov[3][:title]
+puts firstmov[4][:title]
+puts firstmov[5][:title]
   
 end
