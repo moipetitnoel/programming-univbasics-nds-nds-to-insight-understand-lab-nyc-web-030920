@@ -11,7 +11,7 @@ end
 
 def print_first_directors_movie_titles
  #pretty_print_nds(directors_database)
- counter = 0
+ #counter = 0
  #while counter < 6 do
   #print directors_database[0][:movies][counter][:title]
  #end
