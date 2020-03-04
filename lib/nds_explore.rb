@@ -16,5 +16,8 @@ def print_first_directors_movie_titles
   #print directors_database[0][:movies][counter][:title]
  #end
 #counter += 1 
+
+firstmov = directors_database[0][:movies]
+p firstmov[0][:title]
   
 end
